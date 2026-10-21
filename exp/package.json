@@ -1,0 +1,8 @@
+{
+  "name": "jostraca-review-experiments",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "jostraca": "0.40.0"
+  }
+}

@@ -1,0 +1,4 @@
+node_modules/
+exp/out*/
+exp/g/
+exp/c/
